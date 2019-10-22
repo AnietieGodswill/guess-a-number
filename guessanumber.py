@@ -12,7 +12,10 @@ while(noOFguesses<=10):
 
     elif(guessNum >randomVal):
         print("You enter a greater no.,input a smaller no. ")
-
+    
+    elif(guessNum >=101):
+        print("Enter a value from 0 to 100")
+    
     else:
         print("Congratulations, you won!!!")
         break
