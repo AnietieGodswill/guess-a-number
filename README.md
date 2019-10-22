@@ -1,1 +1,2 @@
-# gU3ss-A-nuMBer
+# guess-a-number
+GUESS A NUMBER is a game in which you need to guess and input a number that exactly matches to the code rand value,and you need to guess it before 10 guesses,otherwise game over...
