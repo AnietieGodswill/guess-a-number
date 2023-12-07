@@ -1,2 +1,2 @@
 # guess-a-number
-GUESS A NUMBER is a game in which you need to guess and input a number that exactly matches to the code rand value,and you need to guess it before 10 guesses,otherwise game over...
+"Guess a Number" is an engaging and challenging game that puts your intuition and numerical instincts to the test. In this game, a mysterious random number is generated, and your mission is to crack the code by guessing the correct number within a limited number of attempts. The thrill lies in the race against the clock, as you have only 10 chances to unveil the secret number and emerge victorious.
